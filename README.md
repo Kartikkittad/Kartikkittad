@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 FullStack Software Engineer <a href="https://github.com/Nexeor-dev-space">@Nexeor</a>
+🌱 Tech Lead <a href="https://github.com/Nexeor-dev-space">@Nexeor</a>
 <img align="right" alt="Coding" width="300" src="https://arpanneupane.com/_next/image?url=%2Fprogrammer-gif.gif&w=640&q=75">
 
 
